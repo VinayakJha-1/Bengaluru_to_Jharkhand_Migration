@@ -1,15 +1,10 @@
 # Bengaluru_to_Jharkhand_Migration
  
-The objectives of this study are as follows: 
+ Objective: 
 
 1. Consolidate migration data into a standard data pattern
-2. Provide some reasoning behind these patterns to the organization for improved efforts by GOI
+2. Provide some reasoning behind these patterns to the Data Owner PHIA foundation for improved efforts by GOI
 
-The most important aim of this project was to learning by doing along with generating some data 
-analysis an graphic designs for PHIA foundation (as per their requirement) e.g. 
-- Source and destination analysis – category wise worker, tourist, students
-- Gender wise segregation including pregnant women and lactating mothers 
-- Female migration – source and destination 
 
 Data Source 
 
@@ -23,4 +18,5 @@ Regulations
 The data points have been encripyted as per the request of the supervisor and regulating authority 
 
 Key results 
+
 
