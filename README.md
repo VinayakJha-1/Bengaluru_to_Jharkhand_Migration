@@ -17,6 +17,12 @@ Regulations
 
 The data points have been encripyted as per the request of the supervisor and regulating authority 
 
-Key results 
+Key numbers 
+
+1. Proportions of women migrated urban is 55%
+2. Proportions of men migrated urban is 35% 
+3. Percentage of male that were found dependent is 42 %
+4. Percentage of female that were found dependent is 76%
 
 
+Findings
