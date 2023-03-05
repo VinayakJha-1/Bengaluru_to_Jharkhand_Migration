@@ -1,4 +1,4 @@
-![Bangalore to Jharkhand Migration](https://socialify.git.ci/Vinayak_Jha/E-Health Research Center (EHRC)/image?description=1&font=Raleway&language=1&owner=1&pattern=Charlie%20Brown&theme=Light)
+![Bangalore to Jharkhand Migration](https://socialify.git.ci/VinayakJha-1/Bengaluru_to_Jharkhand_Migration/image?font=Bitter&language=1&name=1&owner=1&pattern=Charlie%20Brown&stargazers=1&theme=Light)
 [![pythonbadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 <!DOCTYPE html>
 <html>
