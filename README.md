@@ -1,6 +1,4 @@
-![indian-music-industry](https://socialify.git.ci/prakharrathi25/sicss-project/image?description=1&font=Raleway&language=1&owner=1&pattern=Charlie%20Brown&theme=Light)
-[![pythonbadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
-
+![Bangalore to Jharkhand Migration](https://socialify.git.ci/Vinayak_Jha/E-Health Research Center (EHRC)/image?description=1&font=Raleway&language=1&owner=1&pattern=Charlie%20Brown&theme=Light)
 [![pythonbadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 <!DOCTYPE html>
 <html>
