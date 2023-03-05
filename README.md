@@ -1,28 +1,90 @@
-# Bengaluru_to_Jharkhand_Migration
- 
- Objective: 
+<!DOCTYPE html>
+<html>
+<head>
+  <!--
+<style>
+		body {
+			font-family: Arial, sans-serif;
+			background-color: #f2f2f2;
+		}
+		h1 {
+			text-align: center;
+			color: #1a1a1a;
+			margin-top: 50px;
+		}
+		h2 {
+			color: #1a1a1a;
+			margin-top: 30px;
+		}
+		p {
+			color: #4d4d4d;
+			font-size: 18px;
+			line-height: 1.5;
+			margin-top: 20px;
+		}
+		ul {
+			margin-top: 20px;
+			margin-left: 30px;
+		}
+		li {
+			color: #4d4d4d;
+			font-size: 18px;
+			line-height: 1.5;
+		}
 
-1. Consolidate migration data into a standard data pattern
-2. Provide some reasoning behind these patterns to the Data Owner PHIA foundation for improved efforts by GOI
+  
+    header {
+      background-color: #0072C6;
+      color: #FFF;
+      padding: 20px;
+      text-align: center;
+      margin-bottom: 20px;
+    }
+    
+    .highlight {
+			background-color: #FCD116;
+			padding: 3px 5px;
+			border-radius: 3px;
+		}
+  
+  </style>
+  -->
+</head>
+<body>
+	<header>
+		<h1> Bengaluru_to_Jharkhand_Migration </h1>
+    <h3> 	Nov, 2022</h3>
+	</header>
+	<div class="container">
+		<h2>Summary</h2>
+  <p> In this product management analysis, we examined ZEE-5's current business model and provided valuable suggestions to solve their problems. Our primary focus was on optimizing their organizational structure, pricing strategy, and enhancing the user experience. To achieve this, we used frameworks such as Value Canvas, Petal Competitive Analysis, and Porter Five Forces.</p>
+
+<h2> Objective</h2>
+<ul>
+<li>  Consolidate migration data into a standard data pattern</li>
+<li>  Provide some reasoning behind these patterns to the Data Owner PHIA foundation for improved efforts by GOI</li>
+</ul>
 
 
-Data Source 
+<h2> Problem</h2>
 
-The raw migration data was made available from PHIA foundation (implementation partner of GoJ 
+<p>The raw migration data was made available from PHIA foundation (implementation partner of GoJ 
 and IIIT-B) with the help of Mr. Divya Raj, Principal Technical Strategist in the E-Health Research Centre 
 (EHRC), IIIT-B who was directly involved in application development (i.e. Jharkhand Pravasi) for 
-Jharkhand government.
+Jharkhand government.</p>
 
-Regulations 
-
-The data points have been encripyted as per the request of the supervisor and regulating authority 
-
-Key numbers 
-
-1. Proportions of women migrated urban is 55%
-2. Proportions of men migrated urban is 35% 
-3. Percentage of male that were found dependent is 42 %
-4. Percentage of female that were found dependent is 76%
+<h2>Regulations</h2> 
+<ul>
+<li>The data points have been encripyted as per the request of the supervisor and regulating authority </li>
 
 
-Findings
+<h2>Key numbers</h2>
+<ul>
+<li> Proportions of women migrated urban is 55%</li>
+<li> Proportions of men migrated urban is 35% </li>
+<li> Percentage of male that were found dependent is 42%</li>
+<li> Percentage of female that were found dependent is 76%</li>
+</ul>
+
+<h2>Findings</h2>
+
