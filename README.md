@@ -57,9 +57,8 @@
 		<h1> Bengaluru_to_Jharkhand_Migration </h1>
     <h3> 	Nov, 2022</h3>
 	</header>
-	<div class="container">
 	
-		<h2>Summary</h2>
+<h2>Summary</h2>
   <p> In this product management analysis, we examined ZEE-5's current business model and provided valuable suggestions to solve their problems. Our primary focus was on optimizing their organizational structure, pricing strategy, and enhancing the user experience. To achieve this, we used frameworks such as Value Canvas, Petal Competitive Analysis, and Porter Five Forces.</p>
 
 <h2> Objective</h2>
