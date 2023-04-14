@@ -94,7 +94,7 @@ Jharkhand government. This data had to be preprocessed and a report regarding ch
 
 <h3> A skankey chart demonstrating migration from Jharkhand to Bangalore </h3>
 <a href="https://www.thequint.com/tech-and-auto/tech-news/internet-shutdowns-cost-india-over-rs-33-8-crore-per-hour"> 
-  <img src="https://images.assettype.com/thequint/2018-07/1c292734-8b14-427d-a67a-0a1a2e11080d/g.jpg" width="500">
+  <img src="https://tinypic.host/images/2023/04/14/Migration_overall_patterns.jpeg" width="500">
 </a>
 
 <h3> A detailed gender wise analysis with a special focus on women migrants </h3>
