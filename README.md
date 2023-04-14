@@ -80,7 +80,7 @@ Jharkhand government.</p>
 <li>The data points have been encripyted as per the request of the supervisor and regulating authority </li>
 
 
-<h2>Key numbers</h2>
+<h2>Key challenges in migration data </h2>
 <ul>
 <li> Proportions of women migrated urban is 55%</li>
 <li> Proportions of men migrated urban is 35% </li>
@@ -89,4 +89,10 @@ Jharkhand government.</p>
 </ul>
 
 <h2>Findings</h2>
+
+
+<h2> Recommendations </h2>
+<li> The study highlights the challenges faced by migrant workers in accessing healthcare in Bangalore, such as low awareness, financial constraints, and denial of social security schemes.</li>
+<li> The study suggests using technological solutions like E sanjeevani and improving the visibility of primary healthcare centers (PHCs) through offline campaigns and social media. It also recommends using intermediaries like community nurses and factory health staff to engage with medical specialists and assist with tasks like booking appointments and prescribing medicines.</li>
+<li> The study proposes that states can help by connecting migrants to nearby Asha workers and assisting with enrollment in social security schemes. Overall, the study highlights the need for better healthcare access for migrant workers and provides recommendations for addressing the challenges they face.</li>
 
