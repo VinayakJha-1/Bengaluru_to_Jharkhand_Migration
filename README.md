@@ -89,6 +89,8 @@ Jharkhand government.</p>
 </ul>
 
 <h2>Findings</h2>
+<li>The challenges faced in implementing the Ayushman Bharat scheme in India include limited awareness and understanding among potential beneficiaries, lack of document availability for the Ayushman Card, and issues with acceptance of the card in hospitals.</li>
+<li>Intermediaries were found to play a crucial role in healthcare accessibility for construction and factory workers, who relied completely on their employer for health needs. Community nurses in construction sites and home owners of household workers acted as intermediaries. Workers did not visit hospitals without informing their intermediary. </li>
 
 
 <h2> Recommendations </h2>
