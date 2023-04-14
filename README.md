@@ -54,7 +54,7 @@
 </head>
 <body>
 	<header>
-		<h1> Bengaluru_to_Jharkhand_Migration </h1>
+		<h1> Studying Health Acccesibility issues faced by migrants in cities like Bangalore and Delhi </h1>
     <h3> 	Nov, 2022</h3>
 	</header>
 	
