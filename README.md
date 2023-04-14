@@ -59,21 +59,25 @@
 	</header>
 	
 <h2>Summary</h2>
-  <p> In this product management analysis, we examined ZEE-5's current business model and provided valuable suggestions to solve their problems. Our primary focus was on optimizing their organizational structure, pricing strategy, and enhancing the user experience. To achieve this, we used frameworks such as Value Canvas, Petal Competitive Analysis, and Porter Five Forces.</p>
-
-<h2> Objective</h2>
-<ul>
-<li>  Consolidate migration data into a standard data pattern</li>
-<li>  Provide some reasoning behind these patterns to the Data Owner PHIA foundation for improved efforts by GOI</li>
-</ul>
+<p> This project aimed to preprocess migration data from Jharkhand and provide a report on the challenges faced by migrant workers in accessing healthcare in Bangalore. The study found that limited awareness, financial constraints, and denial of social security schemes were among the challenges. Digital literacy was important for healthcare access, and intermediaries like community nurses and factory health staff played a crucial role in engaging with medical specialists and assisting with tasks like booking appointments and prescribing medicines. The study recommends using technological solutions like E sanjeevani and improving the visibility of primary healthcare centers, as well as connecting migrants to nearby Asha workers and assisting with enrollment in social security schemes. Overall, the study highlights the need for better healthcare access for migrant workers and provides recommendations for addressing the challenges they face. </p>
 
 
 <h2> Problem</h2>
 
-<p>The raw migration data was made available from PHIA foundation (implementation partner of GoJ 
+<p>The raw migration data was made available from PHIA foundation (implementation partner of Jharkhand migration
 and IIIT-B) with the help of Mr. Divya Raj, Principal Technical Strategist in the E-Health Research Centre 
 (EHRC), IIIT-B who was directly involved in application development (i.e. Jharkhand Pravasi) for 
-Jharkhand government.</p>
+Jharkhand government. This data had to be preprocessed and a report regarding challenges faced by migrants had to be provided. </p>
+
+
+<h2> Objective</h2>
+<ul>
+<li>  Consolidate migration data into a standard data pattern</li>
+<li>  Provide some reasoning behind these patterns to the Data Owner PHIA foundation for improved efforts by GOI in visualizations </li>
+<li>  Understand migration issues and recommend suggestion to PHIA foundation on behalf of IIITB for improving migrants healthcare access </li>
+</ul>
+
+
 
 <h2>Regulations</h2> 
 <ul>
@@ -90,6 +94,7 @@ Jharkhand government.</p>
 
 <h2>Findings</h2>
 <li>The challenges faced in implementing the Ayushman Bharat scheme in India include limited awareness and understanding among potential beneficiaries, lack of document availability for the Ayushman Card, and issues with acceptance of the card in hospitals.</li>
+<li>Digital literacy is important for healthcare access, but new telemedicine applications require awareness programs and expertise training among migrants.</li>
 <li>Intermediaries were found to play a crucial role in healthcare accessibility for construction and factory workers, who relied completely on their employer for health needs. Community nurses in construction sites and home owners of household workers acted as intermediaries. Workers did not visit hospitals without informing their intermediary. </li>
 
 
