@@ -99,7 +99,7 @@ Jharkhand government. This data had to be preprocessed and a report regarding ch
 
 <h3> A detailed gender wise analysis with a special focus on women migrants </h3>
 <a href="https://www.thequint.com/tech-and-auto/tech-news/internet-shutdowns-cost-india-over-rs-33-8-crore-per-hour"> 
-  <img src="https://i.ibb.co/qxzXBW0/image.png" width="500">
+  <img src="https://i.ibb.co/qxzXBW0/image.png" width="1000">
 </a>
 
 
