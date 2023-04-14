@@ -1,4 +1,4 @@
-![Bangalore to Jharkhand Migration](https://socialify.git.ci/VinayakJha-1/Bengaluru_to_Jharkhand_Migration/image?font=Bitter&language=1&name=1&owner=1&pattern=Charlie%20Brown&stargazers=1&theme=Light)
+![Studying Health Acccesibility issues faced by migrants in cities like Bangalore and Delhi](https://socialify.git.ci/VinayakJha-1/Bengaluru_to_Jharkhand_Migration/image?font=Bitter&language=1&name=1&owner=1&pattern=Charlie%20Brown&stargazers=1&theme=Light)
 [![pythonbadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 <!DOCTYPE html>
 <html>
