@@ -93,20 +93,15 @@ Jharkhand government. This data had to be preprocessed and a report regarding ch
 <li>22% of women who migrated were pregnant.</li>
 </ul>
 
-Note - For interactive visualizations please download full version from resources
-
-<h3> A skankey chart demonstrating migration from Jharkhand to Bangalore </h3>
-<a href="https://www.thequint.com/tech-and-auto/tech-news/internet-shutdowns-cost-india-over-rs-33-8-crore-per-hour"> 
-  <img src="https://tinypic.host/images/2023/04/14/Migration_overall_patterns.jpeg" width="1000">
-</a>
-
-<h3> A detailed gender wise analysis with a special focus on women migrants </h3>
-<img src="https://drive.google.com/uc?export=view&id=1R87JIhzTjHHgkaKGRi0dLuKtiXv9hw-j">
+<H2>Dashboard Presentation<H2>
+<img src="https://drive.google.com/uc?export=view&id=1R87JIhzTjHHgkaKGRi0dLuKtiXv9hw-j"><br>
+<img src="https://drive.google.com/uc?export=view&id=1M8w2BQbitU_D51pxL7_nCKFuVZllNhPk"><br>
+<img src="https://drive.google.com/uc?export=view&id=13UKIgbR6eyqEtYv6hGSEV88SL9y_oqVO"><br>
+<img src="https://drive.google.com/uc?export=view&id=1eMGwED3-pe0hxxgKkRNwgTxOsmVrgIKz"><br>
+<img src="https://drive.google.com/uc?export=view&id=1w_uOaV_kcMu9v169i5rdsUzk9VEK30XD"><br>
+<img src="https://drive.google.com/uc?export=view&id=1g_ZLecKs57MFhfA-d6him1bE7qGN14iA"><br>
 	
- <br>
- <a href="https://drive.google.com/uc?export=download&id=17ue_3fxHW1Nt88mJop9fSBVggkJC5S4I" download>
-    Download
-<h2>Findings</h2>
+<h2> Key Findings</h2>
 <li>The challenges faced in implementing the Ayushman Bharat scheme in India include limited awareness and understanding among potential beneficiaries, lack of document availability for the Ayushman Card, and issues with acceptance of the card in hospitals.</li>
 <li>Digital literacy is important for healthcare access, but new telemedicine applications require awareness programs and expertise training among migrants.</li>
 <li>Intermediaries were found to play a crucial role in healthcare accessibility for construction and factory workers, who relied completely on their employer for health needs. Community nurses in construction sites and home owners of household workers acted as intermediaries. Workers did not visit hospitals without informing their intermediary. </li>
