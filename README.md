@@ -101,7 +101,7 @@ Jharkhand government. This data had to be preprocessed and a report regarding ch
 <img src="https://drive.google.com/uc?export=view&id=1w_uOaV_kcMu9v169i5rdsUzk9VEK30XD"><br>
 <img src="https://drive.google.com/uc?export=view&id=1g_ZLecKs57MFhfA-d6him1bE7qGN14iA"><br>
 
-	
+
 <h2> Key Findings</h2>
 <li>The challenges faced in implementing the Ayushman Bharat scheme in India include limited awareness and understanding among potential beneficiaries, lack of document availability for the Ayushman Card, and issues with acceptance of the card in hospitals.</li>
 <li>Digital literacy is important for healthcare access, but new telemedicine applications require awareness programs and expertise training among migrants.</li>
