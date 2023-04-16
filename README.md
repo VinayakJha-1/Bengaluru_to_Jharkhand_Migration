@@ -90,6 +90,7 @@ Jharkhand government. This data had to be preprocessed and a report regarding ch
 <li> Proportions of men migrated urban is 35% </li>
 <li> Percentage of male that were found dependent is 42%</li>
 <li> Percentage of female that were found dependent is 76%</li>
+<li> Percentage of female that were pregnant is 22%</li>
 </ul>
 
 Note - For interactive visualizations please download full version from resources
