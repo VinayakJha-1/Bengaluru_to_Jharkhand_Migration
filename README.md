@@ -101,7 +101,8 @@ Note - For interactive visualizations please download full version from resource
 </a>
 
 <h3> A detailed gender wise analysis with a special focus on women migrants </h3>
-<img src="https://drive.google.com/uc?export=view&id=17ue_3fxHW1Nt88mJop9fSBVggkJC5S4I">
+<img src="https://drive.google.com/uc?export=view&id=1R87JIhzTjHHgkaKGRi0dLuKtiXv9hw-j">
+	
  <br>
  <a href="https://drive.google.com/uc?export=download&id=17ue_3fxHW1Nt88mJop9fSBVggkJC5S4I" download>
     Download
