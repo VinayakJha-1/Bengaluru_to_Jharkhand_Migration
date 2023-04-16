@@ -84,12 +84,13 @@ Jharkhand government. This data had to be preprocessed and a report regarding ch
 <li>The data points have been encripyted as per the request of the supervisor and regulating authority </li>
 
 
-<h2>Key challenges in migration data </h2>
+<h2>Key numbers in migration data </h2>
 <ul>
-<li> Proportions of women migrated urban is 55%</li>
-<li> Proportions of men migrated urban is 35% </li>
-<li> Percentage of male that were found dependent is 42%</li>
-<li> Percentage of female that were found dependent is 76%</li>
+<li>55% of migrated individuals who are women live in urban areas.</li>
+<li>35% of migrated individuals who are men live in urban areas.</li>
+<li>42% of men who migrated were unemployed.</li>
+<li>76% of women who migrated were unemployed.</li>
+<li>22% of women who migrated were pregnant.</li>
 </ul>
 
 Note - For interactive visualizations please download full version from resources
