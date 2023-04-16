@@ -101,10 +101,10 @@ Note - For interactive visualizations please download full version from resource
 </a>
 
 <h3> A detailed gender wise analysis with a special focus on women migrants </h3>
-<a href="https://www.thequint.com/tech-and-auto/tech-news/internet-shutdowns-cost-india-over-rs-33-8-crore-per-hour"> 
-  <img src="https://tinypic.host/images/2023/04/14/Migration_Gender_Patterns.jpeg" width="1000">
-</a>
-
+<img src="https://drive.google.com/uc?export=view&id=17ue_3fxHW1Nt88mJop9fSBVggkJC5S4I">
+ <br>
+ <a href="https://drive.google.com/uc?export=download&id=17ue_3fxHW1Nt88mJop9fSBVggkJC5S4I" download>
+    Download
 <h2>Findings</h2>
 <li>The challenges faced in implementing the Ayushman Bharat scheme in India include limited awareness and understanding among potential beneficiaries, lack of document availability for the Ayushman Card, and issues with acceptance of the card in hospitals.</li>
 <li>Digital literacy is important for healthcare access, but new telemedicine applications require awareness programs and expertise training among migrants.</li>
