@@ -94,11 +94,18 @@ Jharkhand government. This data had to be preprocessed and a report regarding ch
 </ul>
 
 <H2>Dashboard Presentation<H2>
+<h3> Descriptive Analysis 1 <h3>
 <img src="https://drive.google.com/uc?export=view&id=1R87JIhzTjHHgkaKGRi0dLuKtiXv9hw-j"><br>
+<h3> Exploratory Data Analysis <h3>
 <img src="https://drive.google.com/uc?export=view&id=1M8w2BQbitU_D51pxL7_nCKFuVZllNhPk"><br>
+<h3> Qualitative Study <h3>
 <img src="https://drive.google.com/uc?export=view&id=13UKIgbR6eyqEtYv6hGSEV88SL9y_oqVO"><br>
+<h3> Descriptive analysis 2 <h3>
 <img src="https://drive.google.com/uc?export=view&id=1eMGwED3-pe0hxxgKkRNwgTxOsmVrgIKz"><br>
+<h3> Descriptive analysis 3 <h3>
+
 <img src="https://drive.google.com/uc?export=view&id=1w_uOaV_kcMu9v169i5rdsUzk9VEK30XD"><br>
+<h3> Overall Insights and Recommendations <h3>
 <img src="https://drive.google.com/uc?export=view&id=1g_ZLecKs57MFhfA-d6him1bE7qGN14iA"><br>
 
 
