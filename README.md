@@ -81,7 +81,7 @@ Jharkhand government. This data had to be preprocessed and a report regarding ch
 
 <h2>Regulations</h2> 
 <ul>
-<li>The data points have been encripyted as per the request of the supervisor and regulating authority </li>
+<li>The data points have been encripyted as per the request of the supervisor and regulating authority. Only non-identifiable and columns as approved by the stakeholders have been used for visualizations. </li>
 
 
 <h2>Key numbers in migration data </h2>
